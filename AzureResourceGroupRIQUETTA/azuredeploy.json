@@ -7,7 +7,7 @@
       "type": "String"
     },
     "serverfarms_mriquettaWordpress_externalid": {
-      "defaultValue": "/subscriptions/5b94ccfb-1360-43f4-a97d-edc21b775e27/resourceGroups/RIQUETTA/providers/Microsoft.Web/serverfarms/mriquettaWordpress",
+      "defaultValue": "/subscriptions/PUTHEREYOURSUBSCRIPTIONID/resourceGroups/RIQUETTA/providers/Microsoft.Web/serverfarms/mriquettaWordpress",
       "type": "String"
     }
   },
