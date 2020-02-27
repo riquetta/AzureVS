@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "sites_mriquetta_name": {
+      "value": "riquettavs"
+    },
+    "serverfarms_mriquettaWordpress_externalid": {
+      "value": "/subscriptions/5b94ccfb-1360-43f4-a97d-edc21b775e27/resourceGroups/RIQUETTA/providers/Microsoft.Web/serverfarms/mriquettaWordpress"
+    }
+  }
+}
